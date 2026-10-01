@@ -20,7 +20,7 @@ The geographic-flag table has its original four-column format. Boolean fields ar
 
 ## Rasters and models
 
-`MANIFEST.csv` records each GeoTIFF's CRS, dimensions, number of bands, data type, nodata value and six affine-transform coefficients. Predictor units and class encodings are defined in the matching analysis code and result tables; **do not infer units from file names alone**. The aligned predictor stack contains 19 WorldClim bioclimatic variables, 7 soil variables and 4 terrain variables, plus a grid template and common-validity mask.
+`MANIFEST.csv` records each GeoTIFF's CRS, dimensions, number of bands, data type, nodata value and six affine-transform coefficients. Predictor units and class encodings are defined in the matching analysis code and result tables; **do not infer units from file names alone**. The released aligned predictor package contains 7 soil variables and 4 terrain variables, plus a grid template and common-validity mask. The 19 WorldClim bioclimatic variables used in the analysis are documented in `WORLDCLIM_REBUILD.md` and must be obtained from WorldClim by each reuser.
 
 The `*.joblib` files are Python serialized models; load them only in a trusted environment with compatible versions from the code repository's `requirements.txt`. They are not interoperable across arbitrary Python/library versions.
 

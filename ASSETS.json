@@ -1,8 +1,8 @@
 [
   {
-    "name": "aligned_predictor_stack.zip",
-    "size_bytes": 686347345,
-    "sha256": "d5cf2de845880b859278de92b551d4179e85a27b6fc4537803bcb7e790ebc69c"
+    "name": "aligned_nonclimate_predictors.zip",
+    "size_bytes": 25447606,
+    "sha256": "ce404fcee540c9723036a994b5bf527f11926711577e25f731460215c58cb162"
   },
   {
     "name": "current_and_driver_maps.zip",

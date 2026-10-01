@@ -8,7 +8,7 @@ Small CSV/JSON products are stored in this repository under `data/`. Large binar
 
 | Asset | Contents |
 | --- | --- |
-| `aligned_predictor_stack.zip` | 30 aligned current climate, soil and terrain predictor GeoTIFFs plus the reference grid and valid-data mask |
+| `aligned_nonclimate_predictors.zip` | 7 aligned soil and 4 terrain predictor GeoTIFFs plus the reference grid and valid-data mask; see [`WORLDCLIM_REBUILD.md`](WORLDCLIM_REBUILD.md) for the 19 climate variables |
 | `trained_models_part1.zip`, `trained_models_part2.zip` | Experiment 1 fitted models and Experiment 3 models for future projection |
 | `current_and_driver_maps.zip` | Current suitability and spatial driver/contribution maps |
 | `future_suitability_summary.zip` | Future ensemble summary, binary suitability and change maps |
@@ -28,7 +28,7 @@ Extract the ZIPs into one directory while preserving their internal paths. See t
 
 ## Scope and limitations
 
-This is a curated deposit of the processed occurrence records, aligned predictor stack, fitted models, model-result tables, and principal derived suitability and zoning layers. It excludes raw third-party downloads, duplicated handoff packages, individual future-model continuous maps, figures, logs and other intermediate files. The source file `实验5/05_uncertainty_components/mean_SSP_sd.tif` was excluded because it is only 8 bytes and is not a valid raster.
+This is a curated deposit of the processed occurrence records, aligned non-climate predictors, fitted models, model-result tables, and principal derived suitability and zoning layers. WorldClim's licence does not allow redistribution of its climate rasters without permission, so the 19 aligned BIO layers are omitted; the original source and reconstruction route are documented in [`WORLDCLIM_REBUILD.md`](WORLDCLIM_REBUILD.md). The deposit also excludes raw third-party downloads, duplicated handoff packages, individual future-model continuous maps, figures, logs and other intermediate files. The source file `实验5/05_uncertainty_components/mean_SSP_sd.tif` was excluded because it is only 8 bytes and is not a valid raster.
 
 The creators license their original model outputs, analysis tables and derived layers under CC BY 4.0; see [`RIGHTS.md`](RIGHTS.md) for the scope. The occurrence records derive from GBIF and retain each record's original licence, including some noncommercial records. Other source layers were derived from WorldClim 2.1, SoilGrids 2.0, SRTM-derived terrain, MODIS MCD12Q1 land cover and geoBoundaries. Users should cite the original data providers and the exact download records in addition to this processed dataset. The precise GBIF download DOI and some upstream dataset version identifiers were not recorded in the source directory and must be supplied by the authors when the manuscript is finalized.
 
