@@ -1,0 +1,42 @@
+[
+  {
+    "name": "aligned_predictor_stack.zip",
+    "size_bytes": 686347345,
+    "sha256": "d5cf2de845880b859278de92b551d4179e85a27b6fc4537803bcb7e790ebc69c"
+  },
+  {
+    "name": "current_and_driver_maps.zip",
+    "size_bytes": 316556461,
+    "sha256": "d8a5dd1120834dd7fbe9289f54b3fdc1c731dd26fa4c86b147edfea61f2433ef"
+  },
+  {
+    "name": "future_suitability_summary.zip",
+    "size_bytes": 1225939964,
+    "sha256": "318f6a403a47385818b347ca3814b5fa746f56fc2398957d80a06ef4408f3884"
+  },
+  {
+    "name": "novelty_stability_loss.zip",
+    "size_bytes": 56418004,
+    "sha256": "459a216c259b3f1f8ab46d6c344c1d654d6a0de50398a836aae51b7dda57b3d2"
+  },
+  {
+    "name": "trained_models_part1.zip",
+    "size_bytes": 1492993376,
+    "sha256": "94fab5c42c162ecfb3d17125a05c52d34a95049039a1fb28e2268bf80926d4b1"
+  },
+  {
+    "name": "trained_models_part2.zip",
+    "size_bytes": 1517053224,
+    "sha256": "52676b20eb62b31ec33fae359e1b2d32f836cda0b5920a38e12848908d5a9b66"
+  },
+  {
+    "name": "uncertainty_agreement.zip",
+    "size_bytes": 365405449,
+    "sha256": "274829db36ce74440ae383583782ddd1f1fa489a9e0d416318514e8109770d0b"
+  },
+  {
+    "name": "vulnerability_and_final_zoning.zip",
+    "size_bytes": 39410160,
+    "sha256": "65e0e67d17a40ab0747e551bb2ee2b581c971360bfb90ce7fc16f6257ad47308"
+  }
+]

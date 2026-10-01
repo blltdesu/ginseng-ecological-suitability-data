@@ -1,0 +1,9 @@
+Group,Variable,Meaning,Unit,Source
+Climate,bio02,Mean Diurnal Range (BIO02),°C,WorldClim 2.1
+Climate,bio03,Isothermality (BIO03),%,WorldClim 2.1
+Climate,bio05,Max Temperature of Warmest Month (BIO05),°C,WorldClim 2.1
+Climate,bio15,Precipitation Seasonality (BIO15),CV,WorldClim 2.1
+Soil,clay,Clay Content (0-20cm),%,SoilGrids 2.0
+Terrain,elevation,Elevation,m,SRTM DEM
+Terrain,northness,Northness (cos(aspect)),dimensionless,Derived from SRTM DEM
+Soil,sand,Sand Content (0-20cm),%,SoilGrids 2.0

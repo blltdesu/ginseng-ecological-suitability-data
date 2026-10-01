@@ -1,0 +1,11 @@
+Variable_1,Variable_2,Consensus_H,Models_supporting,Interaction_rank
+bio15,bio02,0.301238,1,1
+bio15,bio05,0.1447,1,2
+bio03,bio15,0.128282,3,3
+bio03,bio02,0.098534,2,4
+bio15,clay,0.083593,1,5
+bio02,clay,0.083219,2,6
+bio05,clay,0.069106,2,7
+bio03,bio05,0.067439,3,8
+bio03,clay,0.066805,3,9
+bio02,bio05,0.061591,1,10

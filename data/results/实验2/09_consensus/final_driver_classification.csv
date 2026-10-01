@@ -1,0 +1,9 @@
+variable,permutation_rank,permutation_importance_pct,shap_rank,threshold_support,interaction_involvement,spatial_dominance_area,model_agreement_n,final_driver_tier,classification_reasons,evidence_score
+bio03,1,43.10266353732209,1,robust,4.0,55.545186877544126,4,Strong,permutation_top5; shap_top5; threshold_found; spatial_dominance>10%; high_interaction; model_agreement,12
+bio15,2,25.642607092713803,3,robust,4.0,38.3955722169485,4,Strong,permutation_top5; shap_top5; threshold_found; spatial_dominance>10%; high_interaction; model_agreement,12
+clay,5,3.636160752484799,5,robust,4.0,0.0,4,Strong,permutation_top5; shap_top5; threshold_found; high_interaction; model_agreement,10
+bio02,3,12.945771276220649,6,robust,4.0,5.5781699998391066,4,Strong,permutation_top5; threshold_found; high_interaction; model_agreement,7
+bio05,4,7.203172180314013,7,robust,4.0,0.4786575064759545,4,Strong,permutation_top5; threshold_found; high_interaction; model_agreement,7
+elevation,7,3.1907478694541287,2,moderate,0.0,0.0,4,Moderate,shap_top5; threshold_found; model_agreement,6
+sand,6,3.4793329102045814,4,moderate,0.0,0.0,4,Moderate,shap_top5; threshold_found; model_agreement,6
+northness,8,0.7995443812859296,8,moderate,0.0,0.002413399192315737,4,Weak / model-dependent,threshold_found; model_agreement,3

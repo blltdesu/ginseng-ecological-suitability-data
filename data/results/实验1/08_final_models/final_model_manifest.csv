@@ -1,0 +1,5 @@
+model,file
+maxent,models/maxent_all_reps.joblib
+random_forest,models/random_forest_all_reps.joblib
+xgboost,models/xgboost_all_reps.joblib
+brt,models/brt_all_reps.joblib

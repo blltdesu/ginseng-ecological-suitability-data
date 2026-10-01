@@ -1,0 +1,9 @@
+variable,RF_direction,XGB_direction,BRT_direction,direction_consensus
+bio02,neutral,neutral,neutral,consistent
+bio03,neutral,neutral,neutral,consistent
+bio05,neutral,neutral,neutral,consistent
+bio15,neutral,neutral,neutral,consistent
+clay,negative,negative,negative,consistent
+elevation,negative,negative,negative,consistent
+northness,neutral,neutral,neutral,consistent
+sand,negative,negative,neutral,consistent

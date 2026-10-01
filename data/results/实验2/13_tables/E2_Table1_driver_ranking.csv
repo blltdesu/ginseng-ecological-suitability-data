@@ -1,0 +1,9 @@
+Variable,Group,Permutation_rank,Permutation_percent,Final_driver_tier
+bio03,climate,1,43.10266353732209,Strong
+bio15,climate,2,25.642607092713803,Strong
+bio02,climate,3,12.945771276220649,Strong
+bio05,climate,4,7.203172180314013,Strong
+clay,soil,5,3.636160752484799,Strong
+sand,soil,6,3.4793329102045814,Moderate
+elevation,terrain,7,3.1907478694541287,Moderate
+northness,terrain,8,0.7995443812859296,Weak / model-dependent

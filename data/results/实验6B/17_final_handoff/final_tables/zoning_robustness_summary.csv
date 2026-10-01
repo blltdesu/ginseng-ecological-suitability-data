@@ -1,0 +1,7 @@
+zone,zone_name,main_area_pixels,area_range_across_weights,area_range_across_FSI_thresholds,area_range_across_confidence_thresholds,area_range_across_novelty_thresholds,spatial_consensus,robustness_grade
+1,Core stable candidate,0,0-0,0-0,0-0,0-0,0/4 schemes,"A (高度稳定——所有参数化下均为0, 候选区缺失是稳健结论)"
+2,General stable candidate,0,0-0,0-0,0-0,0-0,0/4 schemes,"A (高度稳定——所有参数化下均为0, 候选区缺失是稳健结论)"
+3,Conditional candidate,0,0-0,0-0,0-0,0-0,0/4 schemes,"A (高度稳定——所有参数化下均为0, 候选区缺失是稳健结论)"
+4,Climate-vulnerable,124,invariant,invariant,invariant,invariant,N/A (规则型分区),"A (高度稳定——124px高置信丧失+置信筛选, 不依赖权重/阈值)"
+5,High-uncertainty,42,invariant,invariant,invariant,invariant,N/A (规则型分区),"A (高度稳定——42px HUZ∩适生域, 不依赖权重/阈值)"
+6,Non-priority,1,invariant,invariant,invariant,invariant,N/A,A (高度稳定)

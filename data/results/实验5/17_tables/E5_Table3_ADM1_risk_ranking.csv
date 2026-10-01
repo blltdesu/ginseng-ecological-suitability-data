@@ -1,0 +1,10 @@
+metric,mean,median,n_pixels_flag1,pct_of_suitable
+future_stability_index,0.9996673464775084,1.0,,
+loss_frequency,0.0003326679870951,0.0,,
+vulnerability,1.7949398056771318e-07,0.0,,
+prediction_confidence,0.8123753666877747,0.9062933921813964,,
+scenario_sd,0.0052391779609024,0.0027838663663715,,
+novelty_frequency,0.0,0.0,,
+robust_core,,,7.0,4.191616766467066
+high_loss_zone,,,0.0,0.0
+high_uncertainty_zone,,,3120522.0,1868576.047904192

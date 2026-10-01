@@ -1,0 +1,9 @@
+zone,zone_name,n_pixels,area_km2,pct_of_final_valid_area,pct_of_current_suitable_area
+1,Core stable candidate,0,0.0,0.0,0.0
+2,General stable candidate,0,0.0,0.0,0.0
+3,Conditional candidate,0,0.0,0.0,0.0
+4,Climate-vulnerable,124,1959.904,74.017,74.017
+5,High-uncertainty,42,670.794,25.333,25.333
+6,Non-priority,1,17.196,0.649,0.649
+
+note,分区统计域=final_valid_mask(167验证适生像元); 面积采用纬度加权像元面积(等面积方法)

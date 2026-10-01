@@ -1,0 +1,13 @@
+{
+  "feature_order": [
+    "bio02",
+    "bio03",
+    "bio05",
+    "bio15",
+    "clay",
+    "elevation",
+    "northness",
+    "sand"
+  ],
+  "n_features": 8
+}

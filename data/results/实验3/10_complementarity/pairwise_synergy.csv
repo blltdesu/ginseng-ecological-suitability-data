@@ -1,0 +1,4 @@
+Pair,Synergy_Boyce,CI_low,CI_high,Interpretation
+Climate-Soil,-0.2708254342714229,-0.32940692034774643,-0.22478564683123614,Redundant/Shared information
+Climate-Terrain,-0.26904762063330667,-0.32666699345395045,-0.22011294236550383,Redundant/Shared information
+Soil-Terrain,-0.2598494465494523,-0.32507576091693835,-0.1985556852536685,Redundant/Shared information

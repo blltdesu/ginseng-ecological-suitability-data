@@ -1,0 +1,9 @@
+﻿stage,n_records,n_removed
+Raw,922,0
+Taxonomy retained,922,0
+Valid coordinates,564,358
+Non-cultivated candidate,413,149
+Grid deduplicated,413,0
+5 km thinning,290,0
+10 km thinning,252,0
+20 km thinning,212,0

@@ -1,0 +1,3 @@
+rank,patch_id,country,ADM1,area_km2,mean_GPI,mean_S,mean_FSI,mean_C,mean_N,landcover
+
+note,修正版数据下无Zone I核心候选斑块(候选池为空),,,,,,,,,

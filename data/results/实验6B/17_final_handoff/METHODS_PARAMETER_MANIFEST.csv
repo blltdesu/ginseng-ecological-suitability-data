@@ -1,0 +1,20 @@
+module,parameter,main_value,sensitivity_values,reason,source
+GPI,w_S,0.25,0.20/0.40,current suitability weight,Experiment6B
+GPI,w_F,0.35,0.20/0.45,stability emphasis (highest),Experiment6B
+GPI,w_C,0.15,0.10/0.20,prediction confidence,Experiment6B
+GPI,w_N,0.1,0.10/0.20,novelty reliability,Experiment6B
+GPI,w_L,0.15,0.10/0.20,land availability,Experiment6B
+GPI,form,geometric weighted product,weighted sum (WSI),penalize any weak dimension,Experiment6B
+CandidatePool,FSI_min,0.5,—,basic persistence requirement (binding; pool empty),Experiment6B
+CoreZone,FSI_threshold,0.9,0.80/0.95,robust persistence,Experiment6B
+CoreZone,Confidence_threshold,0.75,0.60/0.85,prediction certainty,Experiment6B
+CoreZone,NoveltyFreq_threshold,0.1,0.05/0.25,novelty tolerance,Experiment6B
+CoreZone,S_threshold,median(S|suitable)=0.1664,—,Exp1 high-suitability threshold not handed off; median proxy,Experiment6B
+CoreZone,GPI_threshold,P75(candidate),—,priority cutoff (undefined: empty pool),Experiment6B
+Landcover,conditional_factor,0.5,0.25/0.75,forest/shrub/grass conditional availability,Experiment6B
+Landcover,forest_policy,conditional (0.5),—,no tenure/protected-area data; forest never unconditionally available,Experiment6B
+Ensemble,threshold,0.12846759691320192,—,"fixed from Experiment 1, not re-optimized",Experiment1
+Postprocess,min_core_patch_pixels,3,1/5,management-ready filtering (8-neighbor),Experiment6B
+Zoning,domain,final_valid_mask (167 px),—,FSI defined only on validated suitable pixels,Experiment6B
+Area,method,latitude-weighted pixel area (equal-area),—,0.0417° grid area correction,Experiment6B
+Audit,change_class_encoding,"1=Stable,2=Loss,3=Gain",—,verified against binary predictions 2026-08-08,Experiment5 corrected

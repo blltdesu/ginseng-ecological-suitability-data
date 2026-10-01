@@ -1,0 +1,16 @@
+﻿country,ADM1,n_valid_pixels,core_area_km2,general_stable_area_km2,conditional_area_km2,vulnerable_area_km2,high_uncertainty_area_km2,non_priority_area_km2,mean_GPI_zoneI_II,p90_GPI_zoneI_II,largest_core_patch_km2,rank_A_score,rank_A,rank_B_score,rank_B
+RUS,Primorsky Krai,130,0.0,0.0,0.0,1624.911,404.271,0.0,,,0.0,0.0,1,0.0,1
+CHN,Jilin Province,10,0.0,0.0,0.0,80.1,78.718,0.0,,,0.0,0.0,1,0.0,1
+KOR,Gangwon,7,0.0,0.0,0.0,68.321,50.913,0.0,,,0.0,0.0,1,0.0,1
+KOR,North Jeolla,3,0.0,0.0,0.0,52.504,0.0,0.0,,,0.0,0.0,1,0.0,1
+KOR,South Chungcheong,2,0.0,0.0,0.0,34.634,0.0,0.0,,,0.0,0.0,1,0.0,1
+KOR,North Chungcheong,3,0.0,0.0,0.0,34.542,0.0,17.196,,,0.0,0.0,1,0.0,1
+CHN,Hubei Province,1,0.0,0.0,0.0,18.651,0.0,0.0,,,0.0,0.0,1,0.0,1
+CHN,Liaoning Province,1,0.0,0.0,0.0,16.18,0.0,0.0,,,0.0,0.0,1,0.0,1
+JPN,Hokkaido,1,0.0,0.0,0.0,15.729,0.0,0.0,,,0.0,0.0,1,0.0,1
+RUS,Khabarovsk Krai,1,0.0,0.0,0.0,14.332,0.0,0.0,,,0.0,0.0,1,0.0,1
+CHN,Inner Mongolia Autonomous Region,1,0.0,0.0,0.0,0.0,16.939,0.0,,,0.0,0.0,1,0.0,1
+JPN,Nagano,1,0.0,0.0,0.0,0.0,17.355,0.0,,,0.0,0.0,1,0.0,1
+KOR,Gyeonggi,4,0.0,0.0,0.0,0.0,68.139,0.0,,,0.0,0.0,1,0.0,1
+KOR,North Gyeongsang,1,0.0,0.0,0.0,0.0,17.492,0.0,,,0.0,0.0,1,0.0,1
+PRK,North Hwanghae,1,0.0,0.0,0.0,0.0,16.968,0.0,,,0.0,0.0,1,0.0,1

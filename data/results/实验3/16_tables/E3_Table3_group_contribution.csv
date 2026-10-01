@@ -1,0 +1,4 @@
+Group,Standalone_power,Drop_one_loss,Drop_one_CI_low,Drop_one_CI_high,Shapley_percent,Shapley_CI_low,Shapley_CI_high,Rank
+Climate,0.9957,0.0696,0.0505,0.092,47.4,43.9,51.8,1
+Soil,0.7699,-0.0009,-0.0079,0.0061,26.2,22.2,28.8,3
+Terrain,0.7692,0.0006,-0.0037,0.0045,26.4,23.4,28.6,2

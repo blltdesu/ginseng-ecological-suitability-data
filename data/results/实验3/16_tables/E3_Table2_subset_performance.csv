@@ -1,0 +1,9 @@
+Subset,Variables,AUC_mean,AUC_SD,TSS_mean,TSS_SD,Boyce_mean,Boyce_SD
+C,bio02+bio03+bio05+bio15,0.8514,0.0597,0.2619,0.0496,0.3641,0.1415
+S,clay+sand,0.7717,0.0659,0.2351,0.0598,0.0,0.0
+T,elevation+northness,0.7715,0.0698,0.2281,0.0581,0.0,0.0
+CS,bio02+bio03+bio05+bio15+clay+sand,0.8522,0.0599,0.256,0.05,0.4527,0.2532
+CT,bio02+bio03+bio05+bio15+elevation+northness,0.8538,0.0614,0.258,0.0523,0.4318,0.2081
+ST,clay+sand+elevation+northness,0.7833,0.0613,0.3372,0.0865,0.0,0.0
+CST,bio02+bio03+bio05+bio15+clay+sand+elevation+northness,0.8529,0.0605,0.2568,0.0495,0.4228,0.2323
+NULLMODEL,None,0.5,0.0,0.0,0.0,0.0,0.0

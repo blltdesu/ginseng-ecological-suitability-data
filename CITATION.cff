@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this processed dataset when using the deposited files."
+type: dataset
+authors:
+  - family-names: Wu
+    given-names: Jing-Zhen
+  - family-names: Li
+    given-names: Pan
+  - family-names: Qi
+    given-names: Zi-Meng
+  - family-names: Yang
+    given-names: Xin-Xin
+  - family-names: Yu
+    given-names: Peng
+title: "Processed data and model outputs for ecological suitability, future climate responses, and climate-risk zoning of Panax ginseng"
+version: 1.0.0
+date-released: 2026-10-01
+url: "https://github.com/blltdesu/ginseng-ecological-suitability-data"

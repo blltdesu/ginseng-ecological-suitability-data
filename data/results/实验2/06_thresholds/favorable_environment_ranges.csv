@@ -1,0 +1,9 @@
+variable,favorable_range_low,favorable_range_high,method,n_bins_favorable
+bio02,8.0952559530735,14.227765854597092,ensemble_ALE_above_mean,10
+bio03,21.287904324531553,30.196396365165707,ensemble_ALE_above_mean,10
+bio05,21.953080301284793,31.319320936203006,ensemble_ALE_above_mean,8
+bio15,35.31293225765228,83.11465651035307,ensemble_ALE_above_mean,7
+clay,0.7675368070602417,23.793641018867493,ensemble_ALE_above_mean,3
+elevation,34.86317260742187,941.3056604003906,ensemble_ALE_above_mean,7
+northness,-0.49340843923389915,0.008584346547722721,ensemble_ALE_above_mean,3
+sand,1.2448137855529782,33.60997220993041,ensemble_ALE_above_mean,2
